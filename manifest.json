@@ -10,7 +10,7 @@
    "content_security_policy": "script-src 'self' https://apis.google.com https://ssl.google-analytics.com https://www.google-analytics.com https://platform.twitter.com https://chrome.google.com https://d3nslu0hdya83q.cloudfront.net; object-src 'self'",
    "default_locale": "en",
    "description": "Enhance your New Tab Page with ultimate customizability and Infinite Power. [ITP]",
-   "differential_fingerprint": "1.c064cfd777b8a93a3f10021b1dca740b71ed1ae4a2cd4ea5bcb2f0bbf48e2fa4",
+  
    "icons": {
       "128": "/extension/images/icon128.png"
    },
